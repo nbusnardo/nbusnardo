@@ -16,8 +16,6 @@
 <div><br>
   <img align="center" alt="logo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="55"/>
   <img align="center" alt="logo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="55"/>
-  <img align="center" alt="logo-Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  height="35" width="55">
   <img align="right" alt="nobara-comendo" height="150" src="https://c.tenor.com/cuF9zxZ8WqQAAAAM/nobara-comiendo.gif" style="max-width: 50%;">
 </div>
 
@@ -25,6 +23,7 @@
 <div><br>
   <img align="center" alt="logo-laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="35" width="55"/>
   <img align="center" alt="logo-go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" width="55"/>
+  <img align="center" alt="logo-Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" width="55"/>
 </div>
 
 ### You can reach me at
